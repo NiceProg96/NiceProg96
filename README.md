@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NiceProg96
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning PHP and C++
+- 🌱 I’m currently learning PHP, Dart, NodeJS and C++
 - 💞️ I want to collaborate on the creation of a website and program
 - 📫 You can reach me via email: firdavs311296@gmail.com
 
